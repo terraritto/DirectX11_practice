@@ -1,5 +1,5 @@
-DirectX11�̂��׋��p
-���������΂�����x������񂶂�˂����ȁH���Ă��炢�ɂ͏ڂ��������Ă���܂�
-�Ƃ͂���������Ȃ��Ƃ���������̂ł�������
-make_win.cpp �E�B���h�E�̍쐬
-dx_init.cpp DirectX11�̏�����,�����܂����S����Ȃ�
+# DirectX11のお勉強用
+これを見ればある程度かけるんじゃねえかな？ってくらいには詳しく書いております  
+とはいえ分からないところも多いのでご了承を  
+make_win.cpp ウィンドウの作成  
+dx_init.cpp DirectX11の初期化,多分まだ完全じゃない
